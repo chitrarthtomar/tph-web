@@ -108,7 +108,7 @@ sections:
         - type: TextareaFormControl
           name: projectDescription
           label: Tell us more about your project...
-          hideLabel: false
+          hideLabel: true
           placeholder: Type your message here
           width: full
           isRequired: false
