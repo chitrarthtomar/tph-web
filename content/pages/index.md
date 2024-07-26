@@ -107,7 +107,7 @@ sections:
           type: EmailFormControl
         - type: TextareaFormControl
           name: projectDescription
-          label: Message
+          label: 'Tell us '
           hideLabel: false
           placeholder: Type your message here
           width: full
