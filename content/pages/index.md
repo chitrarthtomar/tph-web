@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: We Build And Operate While you Explore.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We understand the challenges of validating problem-market fit and the
+      hassle of setting up your dream team. Our dedicated team of top-tier
+      product builders is always on standby, ready to move faster than you
+      ideate. We handle all aspects of product development and operations,
+      including design, technology development, and even customer support,
+      allowing you to focus on exploring and refining your business strategy.
     styles:
       self:
         height: auto
