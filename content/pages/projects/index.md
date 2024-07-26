@@ -42,7 +42,7 @@ bottomSections:
           hideLabel: true
           placeholder: First Name
           isRequired: true
-          width: 1/2
+          width: full
           type: TextFormControl
         - name: email
           label: Email
