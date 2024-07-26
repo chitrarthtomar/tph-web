@@ -109,7 +109,7 @@ sections:
           name: projectDescription
           label: Tell us more about your project...
           hideLabel: true
-          placeholder: Type your message here
+          placeholder: Tell us more about your project...
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
