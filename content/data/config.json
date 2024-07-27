@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "The Product Highway",
+        "title": "",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -34,7 +34,7 @@
             "altText": "logo",
             "caption": "The Product Highway",
             "elementId": "",
-            "url": "/images/Layer_x0020_1 (1).svg"
+            "url": "/images/site_logo_light.svg"
         }
     },
     "footer": {
