@@ -32,7 +32,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Layer_x0020_1.svg",
-            "altText": "altText of the image",
+            "altText": "logo",
             "caption": "Caption of the image",
             "elementId": ""
         }
