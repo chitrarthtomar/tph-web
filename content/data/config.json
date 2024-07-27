@@ -31,7 +31,6 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Layer_x0020_1.svg",
             "altText": "logo",
             "caption": "The Product Highway",
             "elementId": ""
