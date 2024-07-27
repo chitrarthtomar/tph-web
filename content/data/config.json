@@ -5,8 +5,8 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "",
-        "isTitleVisible": true,
+        "title": "The Product Highway",
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -34,7 +34,9 @@
             "altText": "logo",
             "caption": "The Product Highway",
             "elementId": "",
-            "url": "/images/site_logo_light.svg"
+            "url": "/images/white_logo.svg",
+            "color_logo_url": "/images/color_logo.svg",
+            "light_logo_url": "/images/white_logo.svg"
         }
     },
     "footer": {
@@ -69,7 +71,7 @@
             "address": "Bengaluru",
             "addressAltText": "My address"
         },
-        "copyrightText": "Made with ❤️\n",
+        "copyrightText": "Made with ❤️",
         "styles": {
             "self": {
                 "width": "narrow",
