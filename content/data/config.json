@@ -28,6 +28,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "altText": "logo",
+            "caption": "The Product Highway",
+            "elementId": "",
+            "url": "/images/Layer_x0020_1 (1).svg"
         }
     },
     "footer": {
