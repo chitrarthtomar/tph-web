@@ -6,14 +6,8 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "The Product Highway",
-        "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
+        "isTitleVisible": true,
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
@@ -31,29 +25,14 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "altText": "logo",
+            "altText": "The Procuct Highway",
             "caption": "The Product Highway",
-            "elementId": "",
-            "url": "/images/white_logo.svg",
-            "color_logo_url": "/images/color_logo.svg",
-            "light_logo_url": "/images/white_logo.svg"
+            "elementId": ""
         }
     },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
             {
                 "type": "Link",
                 "label": "Linkedin",
@@ -71,7 +50,7 @@
             "address": "Bengaluru",
             "addressAltText": "My address"
         },
-        "copyrightText": "Made with ❤️",
+        "copyrightText": "Made with ❤️\n",
         "styles": {
             "self": {
                 "width": "narrow",
