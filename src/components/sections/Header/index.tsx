@@ -169,14 +169,36 @@ function MobileMenu(props) {
     );
 }
 
+// function SiteLogoLink({ title, isTitleVisible, logo }) {
+//     if (!(logo || (title && isTitleVisible))) {
+//         return null;
+//     }
+//     return (
+//         <div className="border-r border-current flex items-center">
+//             <Link href="/" className="sb-header-logo flex items-center h-full p-4">
+//                 {logo && <ImageBlock {...logo} className={classNames('max-h-12', { 'mr-2': isTitleVisible })} />}
+//                 {title && isTitleVisible && <span className="text-base tracking-widest uppercase">{title}</span>}
+//             </Link>
+//         </div>
+//     );
+// }
+
 function SiteLogoLink({ title, isTitleVisible, logo }) {
+    const [isHovered, setIsHovered] = useState(false);
+
     if (!(logo || (title && isTitleVisible))) {
         return null;
     }
+
+    const handleMouseEnter = () => setIsHovered(true);
+    const handleMouseLeave = () => setIsHovered(false);
+
+    const logoUrl = isHovered ? logo.color_logo_url : logo.light_logo_url;
+
     return (
-        <div className="border-r border-current flex items-center">
+        <div className="border-r border-current flex items-center" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
             <Link href="/" className="sb-header-logo flex items-center h-full p-4">
-                {logo && <ImageBlock {...logo} className={classNames('max-h-12', { 'mr-2': isTitleVisible })} />}
+                {logo && <ImageBlock {...logo} url={logoUrl} className={classNames('max-h-7', { 'mr-2': isTitleVisible })} />}
                 {title && isTitleVisible && <span className="text-base tracking-widest uppercase">{title}</span>}
             </Link>
         </div>
