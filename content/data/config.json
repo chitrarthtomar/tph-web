@@ -41,12 +41,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/company/the-product-highway",
                 "altText": "linkedin"
