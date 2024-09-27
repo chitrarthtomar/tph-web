@@ -14,13 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Coming Soon
-    subtitle: >-
-      We understand the challenges of validating problem-market fit and the
-      hassle of setting up your dream team. Our dedicated team of top-tier
-      product builders is always on standby, ready to move faster than you
-      ideate. We handle all aspects of product development and operations,
-      including design, technology development, and even customer support,
-      allowing you to focus on exploring and refining your business strategy.
+    subtitle: ''
     styles:
       self:
         height: auto
