@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Coming Soon
     subtitle: >-
       We understand the challenges of validating problem-market fit and the
