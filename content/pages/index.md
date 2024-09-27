@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Coming Soon
+    title: "Coming Soon \U0001F680"
     subtitle: ''
     styles:
       self:
