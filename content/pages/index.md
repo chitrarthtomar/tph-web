@@ -45,7 +45,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: "Coming Soon \U0001F680"
     subtitle: ''
     text: ''
     elementId: ''
