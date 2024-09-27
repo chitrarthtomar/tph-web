@@ -27,8 +27,7 @@
             "type": "ImageBlock",
             "altText": "logo",
             "caption": "The Product Highway",
-            "elementId": "",
-            "url": "/images/site_logo_light.svg"
+            "elementId": ""
         }
     },
     "footer": {
