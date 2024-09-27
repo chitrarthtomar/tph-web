@@ -4,7 +4,6 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Layer_x0020_1.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
