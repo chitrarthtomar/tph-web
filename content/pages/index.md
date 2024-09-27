@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    colors: colors-c
+    colors: colors-a
     variant: variant-a
     title: "Coming Soon \U0001F680"
     subtitle: ''
