@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We Build And Operate While you Explore.
+    title: Coming Soon
     subtitle: >-
       We understand the challenges of validating problem-market fit and the
       hassle of setting up your dream team. Our dedicated team of top-tier
